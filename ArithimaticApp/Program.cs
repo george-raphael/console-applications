@@ -26,9 +26,9 @@ Console.Write(message);
 
 if(umri == 17)
 {
-    string ujumbe = "karibu";
+    var ujumbe = "karibu";
 }
-//Console.WriteLine(ujumbe); ujumbe cant be accessed because it is out of the scope of its declaration
+//Console.WriteLine(ujumbe); //ujumbe cant be accessed because it is out of the scope of its declaration
 
 
 
