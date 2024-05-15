@@ -17,7 +17,5 @@ Console.WriteLine($"Sum is : {sum}");
 */
 //Continue example
 for (int i = 0; i > 0; i++)
-{
-    if (i % 2 == 0) break;
         Console.WriteLine($"Hello from George! {i}");
 }
